@@ -21,11 +21,15 @@ p{line-height: 2.5;
 }
 img{
 border-radius: 5px;
-width: 350px;
-height: 400px;
+width: 400px;
+height: 425px;
 display: block;
 margin: 0 auto;}
-
+@media(max-width:412px){img{border-radius: 5px;
+    width: 330px;
+    height: 370px;
+    display: block;
+    margin: 0 auto;}}
 footer{text-align: center;
   
 }
