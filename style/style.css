@@ -1,0 +1,10 @@
+h1{text-align: center;}
+
+p{line-height: 1.5;
+    text-align: center;
+}
+img{
+border-radius: 5px;
+width: 700px;
+display: block;
+margin: 0 auto;}
