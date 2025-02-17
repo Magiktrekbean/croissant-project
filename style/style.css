@@ -7,7 +7,8 @@ height: 1200px;}
 
 
 h1{text-align: center;
-margin-top: 15px;}
+margin-top: 15px;
+color: var(--bs-danger-text-emphasis);}
 
 p{line-height: 2.5;
     text-align: center;
