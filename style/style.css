@@ -24,10 +24,10 @@ footer{text-align: center;
   
 }
 a{ color: var(--bs-danger-text-emphasis);
-text-decoration: none;}
+}
 
 a:hover{color:#f76b8a;
-text-decoration: underline;}
+}
 
 .container-fluid{
     width: 300px;
