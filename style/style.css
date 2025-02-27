@@ -25,20 +25,24 @@ width: 400px;
 height: 425px;
 display: block;
 margin: 0 auto;}
-@media(max-width:412px){img{border-radius: 5px;
+@media(max-width:576px){img{border-radius: 5px;
     width: 330px;
     height: 370px;
     display: block;
-    margin: 0 auto;}}
-footer{text-align: center;
-  
+    margin: 0 auto;}
+footer {margin-bottom: 20px;}
+h2{font-size: 20px;}}
+footer{text-align: center; 
+
 }
+
 a{ color: var(--bs-danger-text-emphasis);
+
 }
 
 a:hover{color:#f76b8a;
 }
-
+.active { color: #a42431;}
 .container-fluid{
     width: 300px;
     display: block;
